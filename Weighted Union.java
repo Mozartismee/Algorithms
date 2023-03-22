@@ -50,3 +50,4 @@ public class UnionFind {
         return count;
     }
 }
+![case I](image/截圖 2023-03-22 下午1.35.07.png)
